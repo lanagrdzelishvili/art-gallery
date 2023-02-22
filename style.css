@@ -18,7 +18,7 @@ main {
     display: flex;
     flex-direction: column;
 }
-.tablet-img-hero {
+.tablet-img-hero, .img-desktop-hero, .desktop-galerea, .desktop-galerea2, .desktop-galerea3 {
     display: none;
 }
 .tablet-galerea {
@@ -27,11 +27,11 @@ main {
 .img-mobile-hero {
     margin-bottom: 50px;
 }
-.header-container {
+.black-and-white  {
     display: flex;
     flex-direction: column;
 }
-.header-container h1 {
+.head-h1 {
     font-style: normal;
     font-weight: 900;
     font-size: 60px;
@@ -40,7 +40,7 @@ main {
     color: #151515;
     margin-left: 16px;
 }
-.header-container p {
+.header-p {
     font-style: normal;
     font-weight: 300;
     font-size: 18px;

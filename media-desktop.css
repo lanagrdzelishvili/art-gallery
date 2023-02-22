@@ -1,0 +1,90 @@
+@media screen and (min-width: 1360px) {
+    main {
+        width: 1360px;
+    }
+    .img-mobile-hero, .tablet-img-hero {
+        display: none;
+    }
+    .header {
+        display: flex;
+    }
+    .header-cobe {
+        width: 430px;
+        height: 800px;
+        background: #151515;
+    }
+    .img-desktop-hero {
+        display: flex;
+        width: 540px;
+        margin-bottom: 180px;
+    }
+    .black-and-white {
+        position: absolute;
+        top: 180px;
+        left: 136px;
+    }
+    .head-h1 {
+        font-size: 94px;
+        line-height: 88px;
+        color: white;
+    }
+    .line {
+        width: 14px;
+        height: 78px;
+        background-color: #1f1e1e;
+        border-radius: 2px;
+        position: absolute;
+        top: 2px;
+        left: 296px;
+    }
+    .lery {
+        color: #151515;
+    }
+    .header-p {
+        font-size: 22px;
+        line-height: 32px;
+        width: 350px;
+        height: 160px;
+        position: absolute;
+        top: 135px;
+        left: 885px;
+    }
+    .btn-home {
+        position: absolute;
+        top: 420px;
+        left: 885px;
+    }
+
+
+    .section {
+
+    }
+    .section-1 {
+        column-gap: 55px;
+        padding: 0 40px 10px 25px;
+    }
+    .desktop-galerea {
+        
+    }
+
+
+
+
+
+
+
+
+    /* page2-location */
+
+    .map {
+        width: 1360px;
+        height: 685px;
+        position: relative;
+        background-image: url("./images/desktop/image-map.png");
+        background-size: 1360px 685px;
+        background-repeat: no-repeat;
+    }
+    .btn-location {
+        margin-left: 145px;
+    }
+}
