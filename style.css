@@ -18,7 +18,7 @@ main {
     display: flex;
     flex-direction: column;
 }
-.tablet-img-hero, .img-desktop-hero, .desktop-galerea, .desktop-galerea2, .desktop-galerea3 {
+.tablet-img-hero, .img-desktop-hero, .desktop-galerea, .desktop-galerea2, .desktop-galerea3, .at {
     display: none;
 }
 .tablet-galerea {
@@ -81,7 +81,6 @@ main {
 .mobile-galerea {
     margin: 120px 16px 25px 16px;
 }
-
 .your-day h2 {
     font-style: normal;
     font-weight: 900;
@@ -102,7 +101,6 @@ main {
     color: #444444;
     margin: 21px 16px 32px 16px;
 }
-
 .mobile-galerea2 {
     margin: 0 16px;
 }
@@ -168,7 +166,6 @@ main {
 /* page2-location*/
 
 
-
 .main-location {
     display: flex;
     flex-direction: column;
@@ -176,7 +173,6 @@ main {
     align-items: center;
     width: 100%;
 }
-
 .btn-location {
     display: flex;
 }
