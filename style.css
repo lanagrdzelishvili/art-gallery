@@ -48,7 +48,7 @@ main {
     color: #444444;
     margin: 45px 16px 50px 16px;
 }
-.btn-home {
+.btn-home a {
     display: flex;
 }
 .btn-home button {
@@ -60,7 +60,6 @@ main {
     letter-spacing: 3.63636px;
     color: #FFFFFF;
     background-color: #151515;
-    margin-left: 16px;
     height: 72px;
 }
 
@@ -69,11 +68,11 @@ main {
 
 .btn-home:hover .my-btn {
     background: #D5966C;
-    cursor: grabbing;
+    cursor: pointer;
 }
 .btn-home:hover .img-arrow-right {
     background: #151515;
-    cursor: grabbing;
+    cursor: pointer;
 }
 
 .img-arrow-right {
