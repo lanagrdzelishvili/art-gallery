@@ -69,9 +69,11 @@ main {
 
 .btn-home:hover .my-btn {
     background: #D5966C;
+    cursor: grabbing;
 }
 .btn-home:hover .img-arrow-right {
     background: #151515;
+    cursor: grabbing;
 }
 
 .img-arrow-right {
@@ -181,9 +183,11 @@ main {
 
 .btn-location:hover .my-button-loc {
     background: #D5966C;
+    cursor: grabbing;
 }
 .btn-location:hover .img-arrow-left {
     background: #151515;
+    cursor: grabbing;
 }
 .btn-location button {
     font-style: normal;
