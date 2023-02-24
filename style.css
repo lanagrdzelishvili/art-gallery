@@ -4,6 +4,9 @@ p {
 h1, h2, h3, button {
     font-family: 'Big Shoulders Display', cursive;
 }
+html {
+        overflow-x: hidden;
+    }
 body {
     background-color: #F2F2F2;
     display: flex;

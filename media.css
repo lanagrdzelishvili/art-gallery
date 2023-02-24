@@ -44,9 +44,6 @@
     .tablet-galerea {
         display: flex;
     }
-    .gallery-h2 {
-        display: inline;
-    }
     .your-day p {
         width: 223px;
         height: 140px;
@@ -91,7 +88,6 @@
         display: flex;
         padding: 56px 38px 0 0;
     }
-
 
     /* page2-location */
 
